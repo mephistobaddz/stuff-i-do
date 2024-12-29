@@ -1,0 +1,13 @@
+#MOBYs-2 { overflow:hidden; background:var(--tempbg); width:575px; height: 650px; margin:auto; display:flex; border-radius:2px; }
+#MOBYs-2 .box-1 { overflow:hidden; background:var(--tempbgsoft); width:200px; height:100%; margin-right:25px; }
+#MOBYs-2 .box-3-quote { position:relative; background:transparent; width:50%; height:auto; margin:auto; margin-top:50px; padding:10px 0px; box-sizing:border-box; border-width:1px 0px; border-style:solid; border-color:var(--grpbgc); font-family:'Montserrat'; font-weight:bold; font-size:var(--text-bigbase); color:var(--text-base); text-align:left; text-transform:lowercase; letter-spacing:3px; word-spacing:-1px }
+#MOBYs-2 .box-3-quote i { font-style:normal; color:var(--grpbgc); }
+#MOBYs-2 .box-3-tag { opacity:0.75; width:50%; margin:auto; margin-top:5px; font-family:'Poppins'; font-size:var(--text-xs); text-transform:lowercase; letter-spacing:1px; line-height:140% }
+#MOBYs-2 .box-3-tag a { margin-left:5px; color:var(--text-base) }
+#MOBYs-2 .box-3 { background:var(--grpbgc); width:200px; height:200px; border-radius:0px 0px 100% 100%; }
+#MOBYs-2 .box-3 img { filter:grayscale(100%); width:125px; height:125px; border-radius:100%; object-fit: cover; margin:37.5px }
+#MOBYs-2 .box-2 { background:transparent; width:350px; height:100%; padding:150px 65px; padding-right:85px; box-sizing:border-box; }
+#MOBYs-2 .box-2-text { overflow:auto; width:100%; height:100%; padding-right:15px; font-family:'Roboto Mono'; font-size:var(--text-base); text-transform:lowercase; line-height:140%; letter-spacing:0.5px; text-align:justify }
+#MOBYs-2 .box-2-text b { font-family:'Montserrat'; font-size:120%; color:var(--grpbgc); letter-spacing:2px; text-transform:lowercase}
+#MOBYs-2 .box-2-text a { color:var(--grpbgc); } #MOBYs-2 .box-2-text::-webkit-scrollbar { width:5px } #MOBYs-2 .box-2-text::-webkit-scrollbar-thumb { background:var(--grpbgc); border-radius:5px; }
+#MOBYs-2 .box-2-text::-webkit-scrollbar-track { background: transparent }
