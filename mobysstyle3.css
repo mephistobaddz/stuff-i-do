@@ -1,0 +1,11 @@
+#MOBYs-3 { overflow:hidden; background:var(--tempbg); width:450px; height: auto; margin:auto; border-radius:2px; }
+#MOBYs-3 .box-1 { background:var(--tempbgsoft); width:100%; height:450px; border-radius: 0px 0px 100% 100%; padding:70px 80px; box-sizing:border-box; }
+#MOBYs-3 .box-1-img { width:300px; height:300px }
+#MOBYs-3 .box-1-img img { width:125px; height:125px; margin:10px; object-fit:cover; border-radius:100%; }
+#MOBYs-3 .box-2 { width:100%; padding:100px; padding-top:75px; box-sizing:border-box }
+#MOBYs-3 .box-2-title { margin-bottom:25px; font-family:'Poppins'; font-weight:bold; font-size:250%; color:var(--grpbgc); text-transform:lowercase; text-align:center } 
+#MOBYs-3 .box-2-text { overflow:auto; width:100%; height:100%; padding-right:15px; font-family:'Roboto Mono'; font-size:var(--text-base); text-transform:lowercase; line-height:140%; letter-spacing:0.5px; text-align:justify }
+#MOBYs-3 .box-2-text b { font-family:'Montserrat'; font-size:120%; color:var(--grpbgc); letter-spacing:2px; text-transform:lowercase}
+#MOBYs-3 .box-2-text a { color:var(--grpbgc); }
+#MOBYs-3 .box-2-tag { opacity:0.75; width:100%; box-sizing:border-box; margin:auto; font-family:'Poppins'; font-size:var(--text-xs); text-transform:lowercase; letter-spacing:1px; text-align:center }
+#MOBYs-3 .box-2-tag a { margin-left:5px; color:var(--text-base) }
