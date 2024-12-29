@@ -9,5 +9,7 @@
 #MOBYs-2 .box-2 { background:transparent; width:350px; height:100%; padding:150px 65px; padding-right:85px; box-sizing:border-box; }
 #MOBYs-2 .box-2-text { overflow:auto; width:100%; height:100%; padding-right:15px; font-family:'Roboto Mono'; font-size:var(--text-base); text-transform:lowercase; line-height:140%; letter-spacing:0.5px; text-align:justify }
 #MOBYs-2 .box-2-text b { font-family:'Montserrat'; font-size:120%; color:var(--grpbgc); letter-spacing:2px; text-transform:lowercase}
-#MOBYs-2 .box-2-text a { color:var(--grpbgc); } #MOBYs-2 .box-2-text::-webkit-scrollbar { width:5px } #MOBYs-2 .box-2-text::-webkit-scrollbar-thumb { background:var(--grpbgc); border-radius:5px; }
+#MOBYs-2 .box-2-text a { color:var(--grpbgc); }
+#MOBYs-2 .box-2-text::-webkit-scrollbar { width:5px }
+#MOBYs-2 .box-2-text::-webkit-scrollbar-thumb { background:var(--grpbgc); border-radius:5px; }
 #MOBYs-2 .box-2-text::-webkit-scrollbar-track { background: transparent }
